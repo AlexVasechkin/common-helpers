@@ -2,9 +2,9 @@
     "name": "alex_vasechkin/common-helpers",
     "description": "Some functions that uses in big projects",
     "type": "library",
-    "minimum-stability": "dev",
+    "version": "1.0.0",
     "require": {
-        "php": "7.0.0"
+        "php": ">=7.0.0"
     },
     "license": "MIT",
     "authors": [
