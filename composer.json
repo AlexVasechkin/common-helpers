@@ -2,6 +2,7 @@
     "name": "alex_vasechkin/common-helpers",
     "description": "Some functions that uses in big projects",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "php": "7.0.0"
     },
