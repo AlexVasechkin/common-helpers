@@ -2,7 +2,7 @@
     "name": "alex_vasechkin/common-helpers",
     "description": "Some functions that uses in big projects",
     "type": "library",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "require": {
         "php": ">=7.0.0"
     },
