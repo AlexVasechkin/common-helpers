@@ -1,0 +1,20 @@
+{
+    "name": "alex_vasechkin/common-helpers",
+    "description": "Some functions that uses in big projects",
+    "type": "library",
+    "require": {
+        "php": "7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksander Vasechkin",
+            "email": "vasechkin.alex.v@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "src/"
+        }
+    }
+}
